@@ -58,7 +58,7 @@ This project is an extension for the Havoc C2 framework that implements port for
 
  ![alt text](images/6.png)
 
-4. ** Checking that the ports are listening:**
+4. **Checking that the ports are listening:**
 
  ![alt text](images/7.png)
 
